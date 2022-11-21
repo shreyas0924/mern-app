@@ -39,3 +39,16 @@
 .read-the-docs {
   color: #888;
 }
+
+
+form{
+  display: flex;
+  flex-direction: column;
+   
+}
+input{
+  font: large;
+  margin: 4px 4px 4px 4px;
+  height: 50px;
+  font-size: medium;
+}
